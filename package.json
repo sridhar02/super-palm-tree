@@ -1,0 +1,22 @@
+{
+  "name": "is-sk",
+  "version": "1.0.0",
+  "description": "Is the string WDS?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sridhar02/super-palm-tree.git"
+  },
+  "keywords": [
+    "SK"
+  ],
+  "author": "sridhar Katta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sridhar02/super-palm-tree/issues"
+  },
+  "homepage": "https://github.com/sridhar02/super-palm-tree#readme"
+}
